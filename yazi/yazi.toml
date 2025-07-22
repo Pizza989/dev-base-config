@@ -1,7 +1,7 @@
 [manager]
 ratio = [0, 4, 0]
 
-[opener]
-edit = [
-  { run = 'nu ~/.config/nushell/open_file.nu "$1"', desc = "Open File in helix"},
-]
+# [opener]
+# edit = [
+#   { run = 'nu ~/.config/nushell/open_file.nu "$1"', desc = "Open File in helix"},
+# ]
