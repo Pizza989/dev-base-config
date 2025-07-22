@@ -1,0 +1,7 @@
+[manager]
+ratio = [1, 4, 3]
+
+[opener]
+edit = [
+  { run = 'nu ~/.config/nushell/open_file.nu "$1"', desc = "Open File in helix"},
+]
